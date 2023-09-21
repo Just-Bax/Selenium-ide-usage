@@ -32,12 +32,12 @@ Each record contains 4 components:
 - To manually record an action, right-click in recording view and select `Selenium IDE`.
 There are 4 basic actions which can do manually: `assert`, `store`, `verify` and `wait for`:
 - The assert command is used to verify or assert a specific condition or property of a web element or the page itself. It is primarily used for validation purposes to ensure that the application under test behaves as expected. If the assertion fails, the test case will fail.
--- `Example: assertElementPresent, which verifies the presence of a specified element on the page.`
+`Example: assertElementPresent, which verifies the presence of a specified element on the page.`
 - The store command is used to capture and store values from web elements or the page into variables. These variables can then be used later in the test script for various purposes, such as input data or verification.
--- `Example: storeText, which stores the text value of a specified element into a variable for later use.`
+`Example: storeText, which stores the text value of a specified element into a variable for later use.`
 - The verify command is similar to the assert command in that it is used for validation. However, unlike assert, verify commands do not cause the test case to fail if the verification fails. Instead, they log the result as a warning and allow the test to continue executing.
--- `Example: verifyTitle, which verifies if the page title matches the expected title but does not fail the test if it doesn't match.`
+`Example: verifyTitle, which verifies if the page title matches the expected title but does not fail the test if it doesn't match.`
 - The wait for command is used to pause the test execution until a certain condition or element state is met. It is particularly useful for handling asynchronous behavior in web applications or ensuring that an element becomes visible, clickable, or available before performing actions on it.
--- `Example: waitForElementVisible, which waits for a specified element to become visible before proceeding with further actions.`
+`Example: waitForElementVisible, which waits for a specified element to become visible before proceeding with further actions.`
 
 ![image](documents/6.png)
