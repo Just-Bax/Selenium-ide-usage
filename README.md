@@ -21,10 +21,10 @@
 
 ![image](documents/4.png)
 
-- Each record contains 4 components:
--- The `Command` represents the action or operation you want Selenium IDE to perform. It is a keyword that tells Selenium what to do. Examples of common commands include "click," "type," "wait," "assert," and many others.
---  The `Target` specifies the web element(s) on which the command should be executed. It serves as a locator or identifier for the element. The Target can be expressed using various locators, such as XPath, CSS selectors, IDs, class names, or link text, depending on the specific command and the element you want to interact with.
--- The `Value` field is used to provide additional information or data required for the execution of the command. The content of the Value field can vary depending on the command being used. For instance, if you're using the "type" command, the Value would contain the text you want to input into an input field.
--- The `Description` field is an optional component. It allows you to add a human-readable description of the command.
+Each record contains 4 components:
+- The `Command` represents the action or operation you want Selenium IDE to perform. It is a keyword that tells Selenium what to do. Examples of common commands include "click," "type," "wait," "assert," and many others.
+- The `Target` specifies the web element(s) on which the command should be executed. It serves as a locator or identifier for the element. The Target can be expressed using various locators, such as XPath, CSS selectors, IDs, class names, or link text, depending on the specific command and the element you want to interact with.
+- The `Value` field is used to provide additional information or data required for the execution of the command. The content of the Value field can vary depending on the command being used. For instance, if you're using the "type" command, the Value would contain the text you want to input into an input field.
+- The `Description` field is an optional component. It allows you to add a human-readable description of the command.
 
 ![image](documents/5.png)
