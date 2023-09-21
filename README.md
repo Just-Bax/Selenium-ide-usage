@@ -8,7 +8,15 @@
 
 ![image](documents/1.png)
 
-- Enter a name in the `Project Name` input field and the base url of website in the input field `Base url`.
+- Enter a name in the `Project Name` input field.
 
 ![image](documents/2.png)
+
+- Enter a base url of website in the input field `Base url` and click `Start Recording` button.
+
 ![image](documents/3.png)
+
+- After entering all the data, the base URL that you entered will open.
+- Every action you will perform will be recorded by `Command window`.
+
+![image](documents/4.png)
