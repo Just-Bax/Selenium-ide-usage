@@ -1,4 +1,4 @@
-![image](https://github.com/Just-Bax/Selenium-ide-usage/assets/77232794/9d794717-045a-4c4c-a07a-7d3db163b383)## Installing Selenium IDE
+## Installing Selenium IDE
 - Go to the official Selenium IDE website: https://www.selenium.dev/selenium-ide/
 - Download the selenium IDE extension to your browser.
 
